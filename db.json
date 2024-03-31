@@ -1,0 +1,12 @@
+{
+    "music": [
+      {
+        "question": "Who is known as the 'King of Pop'?",
+        "answers": {
+          "a": "Michael Jackson",
+          "b": "Elvis Presley",
+          "c": "Madonna",
+          "d": "Prince"
+        },
+        "answer": "Michael Jackson"
+      }]}
