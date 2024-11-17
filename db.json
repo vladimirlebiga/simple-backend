@@ -1,12 +1,628 @@
 {
     "music": [
       {
-        "question": "Who is known as the 'King of Pop'?",
+        "question": "Who is the lead vocalist of the band Queen?",
         "answers": {
-          "a": "Michael Jackson",
-          "b": "Elvis Presley",
-          "c": "Madonna",
-          "d": "Prince"
+          "a": "a) Freddie Mercury",
+          "b": "b) Mick Jagger",
+          "c": "c) John Lennon",
+          "d": "d) Kurt Cobain"
         },
-        "answer": "Michael Jackson"
-      }]}
+        "correctAnswer": "a) Freddie Mercury"
+      },
+      {
+        "question": "Which instrument does Carlos Santana play?",
+        "answers": {
+          "a": "a) Guitar",
+          "b": "b) Drums",
+          "c": "c) Piano",
+          "d": "d) Saxophone"
+        },
+        "correctAnswer": "a) Guitar"
+      },
+      {
+        "question": "Who is known for the hit single 'Shape of You'?",
+        "answers": {
+          "a": "a) Justin Bieber",
+          "b": "b) Ed Sheeran",
+          "c": "c) Taylor Swift",
+          "d": "d) Ariana Grande"
+        },
+        "correctAnswer": "b) Ed Sheeran"
+      },
+      {
+        "question": "Which band is famous for the album 'Abbey Road'?",
+        "answers": {
+          "a": "a) The Rolling Stones",
+          "b": "b) The Beatles",
+          "c": "c) Led Zeppelin",
+          "d": "d) Pink Floyd"
+        },
+        "correctAnswer": "b) The Beatles"
+      },
+      {
+        "question": "Who sang the song 'Bohemian Rhapsody'?",
+        "answers": {
+          "a": "a) David Bowie",
+          "b": "b) Elton John",
+          "c": "c) Freddie Mercury",
+          "d": "d) Mick Jagger"
+        },
+        "correctAnswer": "c) Freddie Mercury"
+      },
+      {
+        "question": "Which music genre is characterized by its origins in New Orleans, syncopated rhythms, and improvisation?",
+        "answers": {
+          "a": "a) Jazz",
+          "b": "b) Blues",
+          "c": "c) Reggae",
+          "d": "d) Classical"
+        },
+        "correctAnswer": "a) Jazz"
+      },
+      {
+        "question": "Which rapper is known for the album 'The Marshall Mathers LP'?",
+        "answers": {
+          "a": "a) Snoop Dogg",
+          "b": "b) Jay-Z",
+          "c": "c) Eminem",
+          "d": "d) Kanye West"
+        },
+        "correctAnswer": "c) Eminem"
+      },
+      {
+        "question": "Who is considered the 'Father of Bluegrass' music?",
+        "answers": {
+          "a": "a) Bill Monroe",
+          "b": "b) Johnny Cash",
+          "c": "c) Willie Nelson",
+          "d": "d) Hank Williams"
+        },
+        "correctAnswer": "a) Bill Monroe"
+      },
+      {
+        "question": "Which female artist released the album '1989'?",
+        "answers": {
+          "a": "a) Beyoncé",
+          "b": "b) Lady Gaga",
+          "c": "c) Taylor Swift",
+          "d": "d) Rihanna"
+        },
+        "correctAnswer": "c) Taylor Swift"
+      },
+      {
+        "question": "Which rock band released the album 'Back in Black'?",
+        "answers": {
+          "a": "a) AC/DC",
+          "b": "b) Guns N' Roses",
+          "c": "c) Metallica",
+          "d": "d) Nirvana"
+        },
+        "correctAnswer": "a) AC/DC"
+      },
+      {
+        "question": "Who is known as the 'Godfather of Soul'?",
+        "answers": {
+          "a": "a) James Brown",
+          "b": "b) Marvin Gaye",
+          "c": "c) Ray Charles",
+          "d": "d) Stevie Wonder"
+        },
+        "correctAnswer": "a) James Brown"
+      },
+      {
+        "question": "Which artist sang 'Purple Haze'?",
+        "answers": {
+          "a": "a) Jimi Hendrix",
+          "b": "b) Bob Dylan",
+          "c": "c) Janis Joplin",
+          "d": "d) Eric Clapton"
+        },
+        "correctAnswer": "a) Jimi Hendrix"
+      },
+        {
+          "question": "What is the name of Beyoncé's debut solo album?",
+          "answers": {
+            "a": "a) Dangerously in Love",
+            "b": "b) Lemonade",
+            "c": "c) B'Day",
+            "d": "d) Beyoncé"
+          },
+          "correctAnswer": "a) Dangerously in Love"
+        },
+        {
+          "question": "Which band is known for the hit song 'Stairway to Heaven'?",
+          "answers": {
+            "a": "a) Led Zeppelin",
+            "b": "b) The Eagles",
+            "c": "c) Queen",
+            "d": "d) Pink Floyd"
+          },
+          "correctAnswer": "a) Led Zeppelin"
+        },
+        {
+          "question": "Which artist is famous for the album 'Thriller'?",
+          "answers": {
+            "a": "a) Prince",
+            "b": "b) Michael Jackson",
+            "c": "c) Madonna",
+            "d": "d) Whitney Houston"
+          },
+          "correctAnswer": "b) Michael Jackson"
+        }
+      ],
+      "countries": [
+        {
+          "question": "Which country is famous for the Eiffel Tower?",
+          "answers": {
+            "a": "a) Italy",
+            "b": "b) France",
+            "c": "c) Spain",
+            "d": "d) Germany"
+          },
+          "correctAnswer": "b) France"
+        },
+        {
+          "question": "Which country is known for its tulips and windmills?",
+          "answers": {
+            "a": "a) Denmark",
+            "b": "b) Netherlands",
+            "c": "c) Belgium",
+            "d": "d) Switzerland"
+          },
+          "correctAnswer": "b) Netherlands"
+        },
+        {
+          "question": "Which country is located on the Iberian Peninsula?",
+          "answers": {
+            "a": "a) Italy",
+            "b": "b) Spain",
+            "c": "c) Greece",
+            "d": "d) Portugal"
+          },
+          "correctAnswer": "b) Spain"
+        },
+        {
+          "question": "Which country is home to the ancient city of Petra?",
+          "answers": {
+            "a": "a) Egypt",
+            "b": "b) Jordan",
+            "c": "c) Lebanon",
+            "d": "d) Syria"
+          },
+          "correctAnswer": "b) Jordan"
+        },
+        {
+          "question": "Which country is famous for the Great Wall?",
+          "answers": {
+            "a": "a) Japan",
+            "b": "b) China",
+            "c": "c) India",
+            "d": "d) South Korea"
+          },
+          "correctAnswer": "b) China"
+        },
+        {
+          "question": "Which country is known for its fjords?",
+          "answers": {
+            "a": "a) Iceland",
+            "b": "b) Norway",
+            "c": "c) Sweden",
+            "d": "d) Finland"
+          },
+          "correctAnswer": "b) Norway"
+        },
+        {
+          "question": "Which country is located in both Europe and Asia?",
+          "answers": {
+            "a": "a) Turkey",
+            "b": "b) Italy",
+            "c": "c) Greece",
+            "d": "d) Austria"
+          },
+          "correctAnswer": "a) Turkey"
+        },
+        {
+          "question": "Which country is famous for its pyramids?",
+          "answers": {
+            "a": "a) Sudan",
+            "b": "b) Egypt",
+            "c": "c) Algeria",
+            "d": "d) Libya"
+          },
+          "correctAnswer": "b) Egypt"
+        },
+        {
+          "question": "Which country is known for the Leaning Tower of Pisa?",
+          "answers": {
+            "a": "a) Spain",
+            "b": "b) Italy",
+            "c": "c) Greece",
+            "d": "d) France"
+          },
+          "correctAnswer": "b) Italy"
+        },
+        {
+          "question": "Which country is the smallest by land area?",
+          "answers": {
+            "a": "a) Monaco",
+            "b": "b) Vatican City",
+            "c": "c) San Marino",
+            "d": "d) Liechtenstein"
+          },
+          "correctAnswer": "b) Vatican City"
+        },
+        {
+          "question": "Which country is known as the 'Land of the Rising Sun'?",
+          "answers": {
+            "a": "a) China",
+            "b": "b) Japan",
+            "c": "c) South Korea",
+            "d": "d) Vietnam"
+          },
+          "correctAnswer": "b) Japan"
+        },
+        {
+          "question": "Which country is famous for its kangaroos and koalas?",
+          "answers": {
+            "a": "a) New Zealand",
+            "b": "b) Australia",
+            "c": "c) Fiji",
+            "d": "d) Papua New Guinea"
+          },
+          "correctAnswer": "b) Australia"
+        },
+        {
+          "question": "Which country is located in the southernmost part of Africa?",
+          "answers": {
+            "a": "a) Egypt",
+            "b": "b) South Africa",
+            "c": "c) Morocco",
+            "d": "d) Kenya"
+          },
+          "correctAnswer": "b) South Africa"
+        },
+        {
+          "question": "Which country is famous for its fjords and Vikings?",
+          "answers": {
+            "a": "a) Iceland",
+            "b": "b) Denmark",
+            "c": "c) Sweden",
+            "d": "d) Finland"
+          },
+          "correctAnswer": "b) Denmark"
+        },
+        {
+          "question": "Which country is known for its maple syrup production?",
+          "answers": {
+            "a": "a) United States",
+            "b": "b) Canada",
+            "c": "c) Mexico",
+            "d": "d) Brazil"
+          },
+          "correctAnswer": "b) Canada"
+        }
+      ],
+      "literature": [
+        {
+          "question": "Who wrote the novel 'Pride and Prejudice'?",
+          "answers": {
+            "a": "a) Jane Austen",
+            "b": "b) Charles Dickens",
+            "c": "c) Emily Brontë",
+            "d": "d) Virginia Woolf"
+          },
+          "correctAnswer": "a) Jane Austen"
+        },
+        {
+          "question": "Which author created the character Sherlock Holmes?",
+          "answers": {
+            "a": "a) Agatha Christie",
+            "b": "b) Arthur Conan Doyle",
+            "c": "c) Edgar Allan Poe",
+            "d": "d) Dashiell Hammett"
+          },
+          "correctAnswer": "b) Arthur Conan Doyle"
+        },
+        {
+          "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+          "answers": {
+            "a": "a) Harper Lee",
+            "b": "b) Ernest Hemingway",
+            "c": "c) F. Scott Fitzgerald",
+            "d": "d) John Steinbeck"
+          },
+          "correctAnswer": "a) Harper Lee"
+        },
+        {
+          "question": "Which Shakespeare play features the characters Romeo and Juliet?",
+          "answers": {
+            "a": "a) Macbeth",
+            "b": "b) Hamlet",
+            "c": "c) Othello",
+            "d": "d) Romeo and Juliet"
+          },
+          "correctAnswer": "d) Romeo and Juliet"
+        },
+        {
+          "question": "Who wrote the fantasy series 'The Lord of the Rings'?",
+          "answers": {
+            "a": "a) J.R.R. Tolkien",
+            "b": "b) George R.R. Martin",
+            "c": "c) C.S. Lewis",
+            "d": "d) J.K. Rowling"
+          },
+          "correctAnswer": "a) J.R.R. Tolkien"
+        },
+        {
+          "question": "What is the first book of the 'Harry Potter' series?",
+          "answers": {
+            "a": "a) Harry Potter and the Goblet of Fire",
+            "b": "b) Harry Potter and the Chamber of Secrets",
+            "c": "c) Harry Potter and the Sorcerer's Stone",
+            "d": "d) Harry Potter and the Order of the Phoenix"
+          },
+          "correctAnswer": "c) Harry Potter and the Sorcerer's Stone"
+        },
+        {
+          "question": "Who wrote the novel '1984'?",
+          "answers": {
+            "a": "a) Aldous Huxley",
+            "b": "b) George Orwell",
+            "c": "c) H.G. Wells",
+            "d": "d) Ray Bradbury"
+          },
+          "correctAnswer": "b) George Orwell"
+        },
+        {
+          "question": "Which author is known for writing 'The Catcher in the Rye'?",
+          "answers": {
+            "a": "a) J.D. Salinger",
+            "b": "b) F. Scott Fitzgerald",
+            "c": "c) Ernest Hemingway",
+            "d": "d) John Steinbeck"
+          },
+          "correctAnswer": "a) J.D. Salinger"
+        },
+        {
+          "question": "Which author wrote the novel 'Frankenstein'?",
+          "answers": {
+            "a": "a) Mary Shelley",
+            "b": "b) Bram Stoker",
+            "c": "c) Edgar Allan Poe",
+            "d": "d) H.P. Lovecraft"
+          },
+          "correctAnswer": "a) Mary Shelley"
+        },
+        {
+          "question": "What is the name of the novel that is often considered the greatest work of Russian literature?",
+          "answers": {
+            "a": "a) War and Peace",
+            "b": "b) Crime and Punishment",
+            "c": "c) Anna Karenina",
+            "d": "d) The Brothers Karamazov"
+          },
+          "correctAnswer": "a) War and Peace"
+        },
+        {
+          "question": "Who wrote the play 'Hamlet'?",
+          "answers": {
+            "a": "a) William Shakespeare",
+            "b": "b) Christopher Marlowe",
+            "c": "c) Ben Jonson",
+            "d": "d) Thomas Middleton"
+          },
+          "correctAnswer": "a) William Shakespeare"
+        },
+        {
+          "question": "Which novel begins with the line, 'It was the best of times, it was the worst of times'?",
+          "answers": {
+            "a": "a) Pride and Prejudice",
+            "b": "b) Moby-Dick",
+            "c": "c) Great Expectations",
+            "d": "d) A Tale of Two Cities"
+          },
+          "correctAnswer": "d) A Tale of Two Cities"
+        },
+        {
+          "question": "Who is the author of 'The Great Gatsby'?",
+          "answers": {
+            "a": "a) Ernest Hemingway",
+            "b": "b) F. Scott Fitzgerald",
+            "c": "c) John Steinbeck",
+            "d": "d) Virginia Woolf"
+          },
+          "correctAnswer": "b) F. Scott Fitzgerald"
+        },
+        {
+          "question": "Which author wrote the novel 'Moby-Dick'?",
+          "answers": {
+            "a": "a) Herman Melville",
+            "b": "b) Mark Twain",
+            "c": "c) Nathaniel Hawthorne",
+            "d": "d) Henry James"
+          },
+          "correctAnswer": "a) Herman Melville"
+        },
+        {
+          "question": "Who wrote the epic poem 'The Odyssey'?",
+          "answers": {
+            "a": "a) Virgil",
+            "b": "b) Homer",
+            "c": "c) Ovid",
+            "d": "d) Sophocles"
+          },
+          "correctAnswer": "b) Homer"
+        }
+      ],
+      "food": [
+        {
+          "question": "What is the main ingredient in guacamole?",
+          "answers": {
+            "a": "a) Avocado",
+            "b": "b) Tomato",
+            "c": "c) Onion",
+            "d": "d) Potato"
+          },
+          "correctAnswer": "a) Avocado"
+        },
+        {
+          "question": "Which cuisine is known for dishes like sushi and sashimi?",
+          "answers": {
+            "a": "a) Italian",
+            "b": "b) Japanese",
+            "c": "c) Mexican",
+            "d": "d) Indian"
+          },
+          "correctAnswer": "b) Japanese"
+        },
+        {
+          "question": "What is the primary ingredient in hummus?",
+          "answers": {
+            "a": "a) Chickpeas",
+            "b": "b) Lentils",
+            "c": "c) Black beans",
+            "d": "d) Kidney beans"
+          },
+          "correctAnswer": "a) Chickpeas"
+        },
+        {
+          "question": "Which cheese is commonly used in traditional Italian lasagna?",
+          "answers": {
+            "a": "a) Cheddar",
+            "b": "b) Mozzarella",
+            "c": "c) Gouda",
+            "d": "d) Feta"
+          },
+          "correctAnswer": "b) Mozzarella"
+        },
+        {
+          "question": "What is the name of the Italian rice dish cooked with broth to a creamy consistency?",
+          "answers": {
+            "a": "a) Paella",
+            "b": "b) Risotto",
+            "c": "c) Couscous",
+            "d": "d) Polenta"
+          },
+          "correctAnswer": "b) Risotto"
+        },
+        {
+          "question": "Which fruit is known as the 'king of fruits' and has a strong odor?",
+          "answers": {
+            "a": "a) Mango",
+            "b": "b) Banana",
+            "c": "c) Durian",
+            "d": "d) Pineapple"
+          },
+          "correctAnswer": "c) Durian"
+        },
+        {
+          "question": "What type of pastry is used to make a croissant?",
+          "answers": {
+            "a": "a) Puff pastry",
+            "b": "b) Shortcrust pastry",
+            "c": "c) Filo pastry",
+            "d": "d) Choux pastry"
+          },
+          "correctAnswer": "a) Puff pastry"
+        },
+        {
+          "question": "Which spice is made from the dried stigma of a flower and is one of the most expensive spices by weight?",
+          "answers": {
+            "a": "a) Cinnamon",
+            "b": "b) Saffron",
+            "c": "c) Paprika",
+            "d": "d) Turmeric"
+          },
+          "correctAnswer": "b) Saffron"
+        },
+        {
+          "question": "What is the national dish of Spain, consisting of rice, saffron, and various meats and vegetables?",
+          "answers": {
+            "a": "a) Paella",
+            "b": "b) Risotto",
+            "c": "c) Couscous",
+            "d": "d) Sushi"
+          },
+          "correctAnswer": "a) Paella"
+        },
+        {
+          "question": "What is the main ingredient in the Indian dish 'dal makhani'?",
+          "answers": {
+            "a": "a) Lentils",
+            "b": "b) Chickpeas",
+            "c": "c) Kidney beans",
+            "d": "d) Tofu"
+          },
+          "correctAnswer": "a) Lentils"
+        },
+        {
+          "question": "Which cuisine is known for dishes like tacos, burritos, and enchiladas?",
+          "answers": {
+            "a": "a) Chinese",
+            "b": "b) Mexican",
+            "c": "c) Thai",
+            "d": "d) Greek"
+          },
+          "correctAnswer": "b) Mexican"
+        },
+        {
+          "question": "What is the national dish of Italy, consisting of thin, flat pasta with a tomato-based sauce?",
+          "answers": {
+            "a": "a) Spaghetti Bolognese",
+            "b": "b) Fettuccine Alfredo",
+            "c": "c) Carbonara",
+            "d": "d) Pizza"
+          },
+          "correctAnswer": "a) Spaghetti Bolognese"
+        },
+        {
+          "question": "Which food item is traditionally used to make the Japanese dish 'tempura'?",
+          "answers": {
+            "a": "a) Seafood and vegetables",
+            "b": "b) Noodles",
+            "c": "c) Rice",
+            "d": "d) Tofu"
+          },
+          "correctAnswer": "a) Seafood and vegetables"
+        },
+        {
+          "question": "What is the name of the French pastry made from layers of puff pastry and filled with cream or fruit?",
+          "answers": {
+            "a": "a) Éclair",
+            "b": "b) Croissant",
+            "c": "c) Macaron",
+            "d": "d) Mille-feuille"
+          },
+          "correctAnswer": "d) Mille-feuille"
+        },
+        {
+          "question": "What is the main ingredient in the Middle Eastern dip 'hummus'?",
+          "answers": {
+            "a": "a) Chickpeas",
+            "b": "b) Lentils",
+            "c": "c) Black beans",
+            "d": "d) Kidney beans"
+          },
+          "correctAnswer": "a) Chickpeas"
+        }
+      ],
+      
+    "category":[
+        {
+            "title": "Music",
+            "link": "./music.html"
+        },
+        {
+            "title": "Countries",
+            "link": "./countries.html"
+        },
+        {
+          "title": "Literature",
+          "link": "./literature.html"
+      },
+      {
+          "title": "Food",
+          "link": "./food.html"
+      }
+    ]}
